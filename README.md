@@ -1,5 +1,9 @@
 ## Homework-13
 
+Walkthru video
+https://drive.google.com/file/d/12M6FoUqrk7jVfO6I6QBErYlO0uydJICV/view
+
+
 i had to move all my code to a new repo because the other one wasnt working
 
 
