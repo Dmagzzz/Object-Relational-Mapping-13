@@ -1,2 +1,1 @@
-# Object-Relational-Mapping-13
-Homework #13
+# E-commerce Back End Starter Code
